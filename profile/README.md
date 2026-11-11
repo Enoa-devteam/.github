@@ -10,6 +10,8 @@ Our focus is the **integration of chatbots and coding agents**: natural interact
 
 **Enoa 是一个开源开发组织，致力于构建具备实际工程能力的聊天机器人。** 我们希望让自然对话成为任务入口，将聊天机器人的交互与记忆能力，同工具系统和 Coding Agent 的代码理解、修改、测试等工程能力有机结合——不仅讨论问题，也能在明确授权和可验证的流程下协助解决问题。
 
+**Architecture and direction:** [Vision & Architecture](https://github.com/Enoa-devteam/.github/blob/main/docs/VISION.md) · [愿景与系统架构](https://github.com/Enoa-devteam/.github/blob/main/docs/VISION.zh-CN.md)
+
 ---
 
 ## From Chat to Action
